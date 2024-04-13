@@ -37,8 +37,8 @@
 
 ***
 ## 프로젝트 설계
-|     설계       | 결과                                                                    |
-|:-------------:|-----------------------------------------------------------------------|
-|ERD 설계        | <a href="https://www.erdcloud.com/d/ZKHpXipHNBcZBqPoS">OKOWAN ERD</a> |
-|API 설계        | <a href="https://jcm97.gitbook.io/tellro-project/">OKOWAN APIs</a>|
+|     설계       | 결과                                                                 |
+|:-------------:|--------------------------------------------------------------------|
+|ERD 설계        | <img src="https://private-user-images.githubusercontent.com/51190093/322190145-75259db3-c9e6-4ad0-800b-e6ce0ac9a45d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI5OTg2MzIsIm5iZiI6MTcxMjk5ODMzMiwicGF0aCI6Ii81MTE5MDA5My8zMjIxOTAxNDUtNzUyNTlkYjMtYzllNi00YWQwLTgwMGItZTZjZTBhYzlhNDVkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDEzVDA4NTIxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3NTYwM2U3ZTM0ZWIzMDJlYjZhZDcyZmZlYTM3ZDE5NTQ5NGRiYzZjMDBmZDU3OGYxYjBlOTNiMWU2MjBmNmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.M1sPOd3jlK3ps-oOHl12V-ymvoSv8xVwfonn42hhno4">                                                                  |
+|API 설계        | <a href="https://jcm97.gitbook.io/tellro-project/">OKOWAN APIs</a> |
 
