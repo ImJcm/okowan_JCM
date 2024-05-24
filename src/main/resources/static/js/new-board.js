@@ -59,9 +59,9 @@ document.addEventListener("DOMContentLoaded", function () {
         showBoardMember(BoardId, token);
     });
 
-    document.querySelector('.searchTerm').addEventListener('keyup', () => {
+    /*document.querySelector('.searchTerm').addEventListener('keyup', () => {
         searchingMember(BoardId)
-    });
+    });*/
 
     document.querySelector('.searchMemberButton').addEventListener('click', () => {
         searchMember(BoardId)
